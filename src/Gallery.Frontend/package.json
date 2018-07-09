@@ -1,0 +1,27 @@
+{
+  "name": "gallery.frontend",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.6",
+    "@types/react-dom": "^16.0.6",
+    "@types/react-router": "^4.0.28",
+    "css-loader": "^1.0.0",
+    "mini-css-extract-plugin": "^0.4.1",
+    "node-sass": "^4.9.2",
+    "sass-loader": "^7.0.3",
+    "ts-loader": "^4.4.2",
+    "typescript": "^2.9.2",
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
