@@ -1,2 +1,20 @@
 
 src/Gallery\.Frontend/node_modules/
+
+src/Gallery\.Frontend/bin/
+
+src/Gallery\.Frontend/obj/
+
+src/Gallery\.Data/bin/
+
+src/Gallery\.Data/obj/
+
+src/Gallery\.Core/bin/
+
+src/Gallery\.Core/obj/
+
+src/Gallery\.Web/bin/
+
+src/Gallery\.Web/obj/
+
+src/Gallery\.Web/wwwroot/

@@ -1,4 +1,4 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gallery.Data", "src\Gallery.Data\Gallery.Data.csproj", "{502B9A18-2FA8-42FC-B1CA-212E90F4F211}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gallery.Web", "src\Gallery.Web\Gallery.Web.csproj", "{06EEE888-314F-4454-9C21-5C46C0DF233C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gallery.Frontend", "src\Gallery.Frontend\Gallery.Frontend.csproj", "{F007DEEF-1364-4D66-A1A4-B6CACA594BC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -60,10 +62,23 @@ Global
 		{06EEE888-314F-4454-9C21-5C46C0DF233C}.Release|x64.Build.0 = Release|x64
 		{06EEE888-314F-4454-9C21-5C46C0DF233C}.Release|x86.ActiveCfg = Release|x86
 		{06EEE888-314F-4454-9C21-5C46C0DF233C}.Release|x86.Build.0 = Release|x86
+		{F007DEEF-1364-4D66-A1A4-B6CACA594BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F007DEEF-1364-4D66-A1A4-B6CACA594BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F007DEEF-1364-4D66-A1A4-B6CACA594BC7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F007DEEF-1364-4D66-A1A4-B6CACA594BC7}.Debug|x64.Build.0 = Debug|Any CPU
+		{F007DEEF-1364-4D66-A1A4-B6CACA594BC7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F007DEEF-1364-4D66-A1A4-B6CACA594BC7}.Debug|x86.Build.0 = Debug|Any CPU
+		{F007DEEF-1364-4D66-A1A4-B6CACA594BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F007DEEF-1364-4D66-A1A4-B6CACA594BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F007DEEF-1364-4D66-A1A4-B6CACA594BC7}.Release|x64.ActiveCfg = Release|Any CPU
+		{F007DEEF-1364-4D66-A1A4-B6CACA594BC7}.Release|x64.Build.0 = Release|Any CPU
+		{F007DEEF-1364-4D66-A1A4-B6CACA594BC7}.Release|x86.ActiveCfg = Release|Any CPU
+		{F007DEEF-1364-4D66-A1A4-B6CACA594BC7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B638197C-0346-4519-BEED-3EF55768EF21} = {321D8830-3A5E-4711-BD3C-8DEA39E27482}
 		{502B9A18-2FA8-42FC-B1CA-212E90F4F211} = {321D8830-3A5E-4711-BD3C-8DEA39E27482}
 		{06EEE888-314F-4454-9C21-5C46C0DF233C} = {321D8830-3A5E-4711-BD3C-8DEA39E27482}
+		{F007DEEF-1364-4D66-A1A4-B6CACA594BC7} = {321D8830-3A5E-4711-BD3C-8DEA39E27482}
 	EndGlobalSection
 EndGlobal

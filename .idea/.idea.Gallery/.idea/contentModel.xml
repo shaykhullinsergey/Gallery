@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.1/system/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Gallery.589547409.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Gallery.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="src" t="Include">
+        <e p="Gallery.Core" t="IncludeRecursive">
+          <e p="Gallery.Core.csproj" t="IncludeRecursive" />
+          <e p="Message.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp2.0" t="Include">
+                <e p="Gallery.Core.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Gallery.Data" t="IncludeRecursive">
+          <e p="Gallery.Data.csproj" t="IncludeRecursive" />
+          <e p="MessageDbContext.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp2.0" t="Include">
+                <e p="Gallery.Data.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Gallery.Frontend" t="IncludeRecursive">
+          <e p="Gallery.Frontend.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp2.0" t="Include">
+                <e p="Gallery.Frontend.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="package-lock.json" t="Include" />
+          <e p="package.json" t="Include" />
+          <e p="src" t="Include">
+            <e p="Controls" t="Include">
+              <e p="Badge" t="Include">
+                <e p="Badge.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Block" t="Include">
+                <e p="Block.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Box" t="Include">
+                <e p="Box.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Breadcrumbs" t="Include">
+                <e p="Breadcrumb.tsx" t="Include" />
+                <e p="Breadcrumbs.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Button" t="Include">
+                <e p="Button.tsx" t="Include" />
+                <e p="ButtonGroup.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Card" t="Include">
+                <e p="Card.tsx" t="Include" />
+                <e p="CardContent.tsx" t="Include" />
+                <e p="CardFooter.tsx" t="Include" />
+                <e p="CardFooterItem.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="CheckBox" t="Include">
+                <e p="CheckBox.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Column" t="Include">
+                <e p="Column.tsx" t="Include" />
+                <e p="Columns.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Container" t="Include">
+                <e p="Container.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Content" t="Include">
+                <e p="Content.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Control" t="Include">
+                <e p="Control.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Delete" t="Include">
+                <e p="Delete.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Dropdown" t="Include">
+                <e p="Dropdown.tsx" t="Include" />
+                <e p="DropdownContent.tsx" t="Include" />
+                <e p="DropdownDivider.tsx" t="Include" />
+                <e p="DropdownItem.tsx" t="Include" />
+                <e p="DropdownMenu.tsx" t="Include" />
+                <e p="DropdownTrigger.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Element.ts" t="Include" />
+              <e p="Field" t="Include">
+                <e p="Field.tsx" t="Include" />
+                <e p="FieldBody.tsx" t="Include" />
+                <e p="FieldLabel.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Footer" t="Include">
+                <e p="Footer.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Form" t="Include">
+                <e p="Form.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Help" t="Include">
+                <e p="Help.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Hero" t="Include">
+                <e p="Hero.tsx" t="Include" />
+                <e p="HeroBody.tsx" t="Include" />
+                <e p="HeroFooter.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Icon" t="Include">
+                <e p="Icon.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Image" t="Include">
+                <e p="Image.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Label" t="Include">
+                <e p="Label.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="LegacyNavigation" t="Include">
+                <e p="Navigation.tsx" t="Include" />
+                <e p="NavigationItem.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Level" t="Include">
+                <e p="Level.tsx" t="Include" />
+                <e p="LevelItem.tsx" t="Include" />
+                <e p="LevelLeft.tsx" t="Include" />
+                <e p="LevelRight.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Link" t="Include">
+                <e p="Link.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Media" t="Include">
+                <e p="Media.tsx" t="Include" />
+                <e p="MediaContent.tsx" t="Include" />
+                <e p="MediaLeft.tsx" t="Include" />
+                <e p="MediaRight.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Menu" t="Include">
+                <e p="Menu.tsx" t="Include" />
+                <e p="MenuLabel.tsx" t="Include" />
+                <e p="MenuList.tsx" t="Include" />
+                <e p="MenuListItem.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Message" t="Include">
+                <e p="Message.tsx" t="Include" />
+                <e p="MessageBody.tsx" t="Include" />
+                <e p="MessageHeader.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Modal" t="Include">
+                <e p="Modal.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Navbar" t="Include">
+                <e p="Navbar.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Notification" t="Include">
+                <e p="Notification.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Pageloader" t="Include">
+                <e p="Pageloader.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Pagination" t="Include">
+                <e p="Pagination.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Panel" t="Include">
+                <e p="Panel.tsx" t="Include" />
+                <e p="PanelBlock.tsx" t="Include" />
+                <e p="PanelHeader.tsx" t="Include" />
+                <e p="PanelTab.tsx" t="Include" />
+                <e p="PanelTabs.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="ProgressBar" t="Include">
+                <e p="ProgressBar.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Radio" t="Include">
+                <e p="Radio.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Section" t="Include">
+                <e p="Section.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Select" t="Include">
+                <e p="Select.tsx" t="Include" />
+                <e p="SelectItem.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Subtitle" t="Include">
+                <e p="Subtitle.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Switch" t="Include">
+                <e p="Switch.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Table" t="Include">
+                <e p="Table.tsx" t="Include" />
+                <e p="TableBody.tsx" t="Include" />
+                <e p="TableData.tsx" t="Include" />
+                <e p="TableFooter.tsx" t="Include" />
+                <e p="TableHead.tsx" t="Include" />
+                <e p="TableHeader.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Tabs" t="Include">
+                <e p="Tabs.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Tag" t="Include">
+                <e p="Tag.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Text" t="Include">
+                <e p="Text.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Textarea" t="Include">
+                <e p="Textarea.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Textbox" t="Include">
+                <e p="Textbox.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Tile" t="Include">
+                <e p="Tile.tsx" t="Include" />
+                <e p="Tiles.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Title" t="Include">
+                <e p="Title.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Tooltip" t="Include">
+                <e p="Tooltip.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="index.ts" t="Include" />
+            </e>
+            <e p="Hubs" t="Include">
+              <e p="Hub.ts" t="Include" />
+              <e p="Message" t="Include">
+                <e p="MessageHub.ts" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="index.ts" t="Include" />
+            </e>
+            <e p="Models" t="Include">
+              <e p="Message.ts" t="Include" />
+            </e>
+            <e p="Pages" t="Include">
+              <e p="About" t="Include">
+                <e p="AboutPage.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Home" t="Include">
+                <e p="HomePage.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="Page.tsx" t="Include" />
+              <e p="Test" t="Include">
+                <e p="Test.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
+              <e p="index.ts" t="Include" />
+            </e>
+            <e p="app.config.tsx" t="Include" />
+            <e p="bulma.config.ts" t="Include" />
+            <e p="routes.config.tsx" t="Include" />
+          </e>
+          <e p="tsconfig.json" t="Include" />
+          <e p="webpack.config.js" t="Include" />
+        </e>
+        <e p="Gallery.Web" t="IncludeRecursive">
+          <e p="Controllers" t="Include">
+            <e p="HomeController.cs" t="Include" />
+            <e p="MessageController.cs" t="Include" />
+          </e>
+          <e p="Gallery.Web.csproj" t="IncludeRecursive" />
+          <e p="Hubs" t="Include">
+            <e p="MessageHub.cs" t="Include" />
+          </e>
+          <e p="Program.cs" t="Include" />
+          <e p="Services" t="Include">
+            <e p="Message" t="Include">
+              <e p="IMessageService.cs" t="Include" />
+              <e p="MessageService.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Startup.cs" t="Include" />
+          <e p="Views" t="Include">
+            <e p="Home" t="Include">
+              <e p="Index.cshtml" t="Include" />
+            </e>
+          </e>
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp2.0" t="Include">
+                <e p="Gallery.Web.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="wwwroot" t="Include">
+            <e p="main.css" t="Include" />
+            <e p="main.js" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

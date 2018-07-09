@@ -1,31 +1,52 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.IO.Compression;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.ResponseCompression;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Gallery.Web
 {
-  public class Startup
-  {
-    public void ConfigureServices(IServiceCollection services)
-    {
-    }
+	public class Startup
+	{
+		public void ConfigureServices(IServiceCollection services)
+		{
+			services.AddDbContext<MessageDbContext>(options =>
+				options.UseInMemoryDatabase(nameof(MessageDbContext)));
+			
+			services.AddScoped<IMessageService, MessageService>();
 
-    public void Configure(IApplicationBuilder app, IHostingEnvironment env)
-    {
-      if (env.IsDevelopment())
-      {
-        app.UseDeveloperExceptionPage();
-      }
+			services.AddResponseCompression();
+			services.AddSignalR();
+			services.AddMvc();
+		}
 
-      app.Run(async (context) =>
-      {
-        await context.Response.WriteAsync("Hello World!");
-      });
-    }
-  }
+		public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+		{
+			if (env.IsDevelopment())
+			{
+				app.UseDeveloperExceptionPage();
+			}
+
+			app.UseResponseCompression();
+			app.UseStaticFiles();
+
+			app.UseSignalR(routes =>
+			{
+				routes.MapHub<MessageHub>("/message");
+			});
+			
+			app.UseMvc(routes =>
+			{
+				routes.MapRoute(
+					name: "default",
+					template: "{controller=Home}/{action=Index}/{id?}");
+				
+				routes.MapSpaFallbackRoute(
+					name: "spa-fallback",
+					defaults: new { controller = "Home", action = "Index" });
+			});
+			
+		}
+	}
 }
