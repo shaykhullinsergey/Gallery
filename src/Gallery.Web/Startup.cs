@@ -1,9 +1,13 @@
-﻿using System.IO.Compression;
+﻿using System;
+using System.IO.Compression;
+using System.Text;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.ResponseCompression;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.IdentityModel.Tokens;
 
 namespace Gallery.Web
 {
@@ -16,6 +20,10 @@ namespace Gallery.Web
 			
 			services.AddScoped<IMessageService, MessageService>();
 
+			services.AddIdentity<IdentityUser, IdentityRole>()
+				.AddEntityFrameworkStores<IdentityDbContext>()
+				.AddDefaultTokenProviders();
+			
 			services.AddResponseCompression();
 			services.AddSignalR();
 			services.AddMvc();
@@ -31,6 +39,8 @@ namespace Gallery.Web
 			app.UseResponseCompression();
 			app.UseStaticFiles();
 
+			app.UseAuthentication();
+			
 			app.UseSignalR(routes =>
 			{
 				routes.MapHub<MessageHub>("/message");

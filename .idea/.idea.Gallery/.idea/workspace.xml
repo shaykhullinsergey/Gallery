@@ -11,20 +11,87 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HomePage.tsx" pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Home/HomePage.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-450" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageHub.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Message/MessageHub.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageHubActions.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Message/MessageHubActions.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hub.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Hub.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+            <state relative-caret-position="-67">
+              <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
               <folding>
-                <marker date="1531138485466" expanded="true" signature="6:233" ph="..." />
-                <marker date="1531138485466" expanded="true" signature="256:1193" ph="{...}" />
-                <marker date="1531138485466" expanded="true" signature="280:1191" ph="{...}" />
-                <marker date="1531138485466" expanded="true" signature="344:615" ph="{...}" />
-                <marker date="1531138485466" expanded="true" signature="690:1188" ph="{...}" />
-                <marker date="1531138485466" expanded="true" signature="722:769" ph="{...}" />
-                <marker date="1531138485466" expanded="true" signature="857:910" ph="{...}" />
-                <marker date="1531138485466" expanded="true" signature="940:1178" ph="{...}" />
+                <marker date="1531173863511" expanded="true" signature="6:346" ph="..." />
+                <marker date="1531173863511" expanded="true" signature="369:1480" ph="{...}" />
+                <marker date="1531173863511" expanded="true" signature="393:1478" ph="{...}" />
+                <marker date="1531173863511" expanded="true" signature="457:870" ph="{...}" />
+                <marker date="1531173863511" expanded="true" signature="945:1475" ph="{...}" />
+                <marker date="1531173863511" expanded="true" signature="977:1024" ph="{...}" />
+                <marker date="1531173863511" expanded="true" signature="1144:1197" ph="{...}" />
+                <marker date="1531173863511" expanded="true" signature="1227:1465" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageDbContext.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gallery.Data/MessageDbContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+              <folding>
+                <marker date="1531173742550" expanded="true" signature="55:396" ph="{...}" />
+                <marker date="1531173742550" expanded="true" signature="100:247" ph="{...}" />
+                <marker date="1531173742550" expanded="true" signature="236:244" ph="{...}" />
+                <marker date="1531173742550" expanded="true" signature="293:394" ph="{...}" />
+                <marker date="1531173742550" expanded="true" signature="383:391" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <marker date="1531173254386" expanded="true" signature="6:73" ph="..." />
+                <marker date="1531173254386" expanded="true" signature="108:343" ph="{...}" />
+                <marker date="1531173254386" expanded="true" signature="152:341" ph="{...}" />
+                <marker date="1531173254386" expanded="true" signature="186:212" ph="{...}" />
+                <marker date="1531173254386" expanded="true" signature="277:338" ph="{...}" />
+                <marker date="1531173254386" expanded="true" signature="304:332" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -46,85 +113,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.config.tsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/app.config.tsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MessageHub.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Message/MessageHub.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Message.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Models/Message.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.tsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Test/Test.tsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Program.cs">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gallery.Web/wwwroot/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
-              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-              <folding>
-                <marker date="1531128562262" expanded="true" signature="6:63" ph="..." />
-                <marker date="1531128562262" expanded="true" signature="86:332" ph="{...}" />
-                <marker date="1531128562262" expanded="true" signature="110:330" ph="{...}" />
-                <marker date="1531128562262" expanded="true" signature="154:191" ph="{...}" />
-              </folding>
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Page.tsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Page.tsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MessageDbContext.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gallery.Data/MessageDbContext.cs">
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Views/Home/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding>
-                <marker date="1531138570082" expanded="true" signature="55:249" ph="{...}" />
-                <marker date="1531138570082" expanded="true" signature="100:247" ph="{...}" />
-                <marker date="1531138570082" expanded="true" signature="236:244" ph="{...}" />
+                <marker date="1531132574922" expanded="true" signature="17:188" ph="&lt;html.../&gt;" />
+                <marker date="1531132574922" expanded="true" signature="25:108" ph="&lt;head.../&gt;" />
+                <marker date="1531132574922" expanded="true" signature="110:180" ph="&lt;body.../&gt;" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.config.tsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/routes.config.tsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -135,21 +142,41 @@
     <findStrings>
       <find>works!</find>
       <find>match</find>
+      <find>payload</find>
+      <find>hoverable</find>
+      <find>has-add</find>
+      <find>searc</find>
+      <find>input</find>
+      <find>className()</find>
+      <find>expa</find>
+      <find>cente</find>
+      <find>row</find>
+      <find>columns</find>
+      <find>media-content</find>
+      <find>class=</find>
     </findStrings>
+    <replaceStrings>
+      <replace>className=</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/Gallery.Frontend/src</dir>
+    </dirStrings>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/55694767-7CFE-4EC7-BD36-F7758FEF308F/67/fd25e1d0/ResponseCompressionBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Gallery.Web/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/55694767-7CFE-4EC7-BD36-F7758FEF308F/ff/9d6ec347/ResponseCompressionMiddleware.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41558F45-1DE2-404D-84A9-7197007A14AD/12/4bdfd0a5/JwtBearerDefaults.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Gallery.Web/Hubs/MessageHub.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Gallery.Web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8F4D404-F851-4FC0-8EDD-C732D4B20979/91/869c3d02/IdentityRole.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/55694767-7CFE-4EC7-BD36-F7758FEF308F/10/5da924f2/GzipCompressionProviderOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8F4D404-F851-4FC0-8EDD-C732D4B20979/42/20b3793a/IdentityRole`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Gallery.Data/MessageDbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Gallery.Web/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Gallery.Web/Services/Message/IMessageService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Gallery.Web/Services/Message/MessageService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Hub.ts" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/Gallery.Web/Controllers/MessageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Gallery.Web/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -158,39 +185,51 @@
         <option value="$PROJECT_DIR$/src/Gallery.Web/Services/Message/IMessageService.cs" />
         <option value="$PROJECT_DIR$/src/Gallery.Web/Program.cs" />
         <option value="$PROJECT_DIR$/src/Gallery.Web/Controllers/MessageController.cs" />
-        <option value="$PROJECT_DIR$/src/Gallery.Web/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/buima.config.ts" />
         <option value="$PROJECT_DIR$/src/Gallery.Frontend/app.tsx" />
         <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/app.ts" />
-        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Element.ts" />
         <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Help/Help.tsx" />
         <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/app.config.ts" />
         <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/routes.config.tsx.ts" />
-        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/app.config.tsx" />
-        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Link/Link.tsx" />
         <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/AboutPage.tsx" />
         <option value="$PROJECT_DIR$/src/Gallery.Web/Views/Home/Index.cshtml" />
         <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/bulma.config.ts" />
         <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/HomePage.tsx" />
-        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Home/index.ts" />
         <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/About/index.ts" />
-        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Page.tsx" />
         <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/index.ts" />
         <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Test/index.ts" />
-        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/routes.config.tsx" />
-        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/About/AboutPage.tsx" />
         <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Hub.ts.cs" />
         <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/index.ts" />
-        <option value="$PROJECT_DIR$/src/Gallery.Frontend/webpack.config.js" />
-        <option value="$PROJECT_DIR$/src/Gallery.Frontend/tsconfig.json" />
-        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Hub.ts" />
-        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Message/index.ts" />
-        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Models/Message.ts" />
         <option value="$PROJECT_DIR$/src/Gallery.Web/Hubs/MessageHub.cs" />
-        <option value="$PROJECT_DIR$/src/Gallery.Web/Startup.cs" />
-        <option value="$PROJECT_DIR$/src/Gallery.Data/MessageDbContext.cs" />
-        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Message/MessageHub.ts" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Models/Message.ts" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/tsconfig.json" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Reducers/Message/index.ts" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Reducers/Message/MessageReducer.ts" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Reducers/Message/MessageActions.ts" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/redux.config.tsx" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/reducers.config.ts" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/app.config.tsx" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/About/AboutPage.tsx" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Textbox/Textbox.tsx" />
         <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Test/Test.tsx" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Page.tsx" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Home/index.ts" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Link/Link.tsx" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Hub.ts" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/routes.config.tsx" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Navbar/Navbar.tsx" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Element.ts" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Search/index.ts" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Search/Search.tsx" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Image/Image.tsx" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Home/HomePage.tsx" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Message/index.ts" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Message/MessageHubActions.ts" />
+        <option value="$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Message/MessageHub.ts" />
+        <option value="$PROJECT_DIR$/src/Gallery.Web/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/src/Gallery.Data/MessageDbContext.cs" />
+        <option value="$PROJECT_DIR$/src/Gallery.Web/Startup.cs" />
       </list>
     </option>
   </component>
@@ -208,16 +247,18 @@
       <path value="$PROJECT_DIR$/src/Gallery.Frontend/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="245" />
-    <option name="width" value="1590" />
-    <option name="height" value="884" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="124" />
+    <option name="y" value="284" />
+    <option name="width" value="1580" />
+    <option name="height" value="880" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -266,14 +307,6 @@
               <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Gallery.Frontend" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Gallery (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Gallery.Frontend" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Pages" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
@@ -283,13 +316,20 @@
               <item name="Gallery.Frontend" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Pages" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Test" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Home" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Gallery (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Gallery.Web" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Gallery (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Gallery.Web" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
@@ -297,6 +337,21 @@
               <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Gallery.Web" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Hubs" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Gallery (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Gallery.Web" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Gallery (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Gallery.Web" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Message" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
@@ -319,12 +374,12 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Gallery.Frontend/Gallery.Frontend.csproj" />
+    <property name="SearchEverywhereHistoryKey" value="Navbar &#9;null&#9;null&#10;Message&#9;FILE&#9;file:///home/shaykhullinsergey/Desktop/Gallery/src/Gallery.Frontend/src/Models/Message.ts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Gallery.Frontend/src" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
@@ -400,7 +455,7 @@
       <window_info anchor="bottom" id="Run" order="8" weight="0.32903865" />
       <window_info anchor="bottom" id="NuGet" order="0" weight="0.32903865" />
       <window_info anchor="bottom" id="TypeScript" order="13" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="5" visible="true" weight="0.20677084" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="5" visible="true" weight="0.2328125" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="13" weight="0.32903865" />
       <window_info anchor="right" id="Database" order="1" />
@@ -411,7 +466,7 @@
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32903865" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="6" />
     </layout>
@@ -421,155 +476,175 @@
   </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/bulma.config.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/app.config.tsx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Element.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Services/Message/IMessageService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Services/Message/MessageService.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Controllers/MessageController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/wwwroot/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88021" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/asdasdasd.txt" />
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Help/Help.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/node_modules/@types/react-router-dom/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/index.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Link/Link.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <marker date="1531132574922" expanded="true" signature="17:188" ph="&lt;html.../&gt;" />
-            <marker date="1531132574922" expanded="true" signature="25:108" ph="&lt;head.../&gt;" />
-            <marker date="1531132574922" expanded="true" signature="110:180" ph="&lt;body.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/wwwroot/bundle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="896" column="54" selection-start-line="896" selection-start-column="54" selection-end-line="896" selection-end-column="54" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/55694767-7CFE-4EC7-BD36-F7758FEF308F/67/fd25e1d0/ResponseCompressionBuilderExtensions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/55694767-7CFE-4EC7-BD36-F7758FEF308F/ff/9d6ec347/ResponseCompressionMiddleware.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="59" column="39" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/55694767-7CFE-4EC7-BD36-F7758FEF308F/10/5da924f2/GzipCompressionProviderOptions.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/About/index.ts" />
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Tooltip/Tooltip.tsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Title/Title.tsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Test/index.ts" />
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Models/Message.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Reducers/Message/index.ts" />
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/node_modules/redux/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="115" column="2" selection-start-line="115" selection-start-column="2" selection-end-line="115" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Controllers/MessageController.cs" />
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Reducers/Message/MessageActions.ts" />
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Reducers/Message/MessageReducer.ts" />
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/reducers.config.ts" />
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/redux.config.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Textbox/Textbox.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Test/Test.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/About/AboutPage.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Home/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Link/Link.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/node_modules/@types/react-router/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="66" column="17" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/node_modules/@types/react/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="307" column="51" selection-start-line="307" selection-start-column="51" selection-end-line="307" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Page.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Element.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Search/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Navbar/Navbar.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Image/Image.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Search/Search.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Button/Button.tsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Message/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Home/HomePage.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/bulma.config.ts">
@@ -579,103 +654,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Home/HomePage.tsx">
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/app.config.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/routes.config.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Home/index.ts">
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Message/MessageHubActions.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/About/index.ts">
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Message/MessageHub.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Tooltip/Tooltip.tsx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Title/Title.tsx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/node_modules/@types/react-router/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="66" column="36" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Test/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Controls/Element.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="137" column="2" selection-start-line="137" selection-start-column="2" selection-end-line="137" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/About/AboutPage.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+        <state relative-caret-position="75">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Hub.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Message/index.ts">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41558F45-1DE2-404D-84A9-7197007A14AD/12/4bdfd0a5/JwtBearerDefaults.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8F4D404-F851-4FC0-8EDD-C732D4B20979/42/20b3793a/IdentityRole`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8F4D404-F851-4FC0-8EDD-C732D4B20979/91/869c3d02/IdentityRole.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+          <folding>
+            <marker date="1531173863511" expanded="true" signature="6:346" ph="..." />
+            <marker date="1531173863511" expanded="true" signature="369:1480" ph="{...}" />
+            <marker date="1531173863511" expanded="true" signature="393:1478" ph="{...}" />
+            <marker date="1531173863511" expanded="true" signature="457:870" ph="{...}" />
+            <marker date="1531173863511" expanded="true" signature="945:1475" ph="{...}" />
+            <marker date="1531173863511" expanded="true" signature="977:1024" ph="{...}" />
+            <marker date="1531173863511" expanded="true" signature="1144:1197" ph="{...}" />
+            <marker date="1531173863511" expanded="true" signature="1227:1465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/wwwroot/main.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Models/Message.ts">
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Data/MessageDbContext.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="450">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+          <folding>
+            <marker date="1531173742550" expanded="true" signature="55:396" ph="{...}" />
+            <marker date="1531173742550" expanded="true" signature="100:247" ph="{...}" />
+            <marker date="1531173742550" expanded="true" signature="236:244" ph="{...}" />
+            <marker date="1531173742550" expanded="true" signature="293:394" ph="{...}" />
+            <marker date="1531173742550" expanded="true" signature="383:391" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <marker date="1531173254386" expanded="true" signature="6:73" ph="..." />
+            <marker date="1531173254386" expanded="true" signature="108:343" ph="{...}" />
+            <marker date="1531173254386" expanded="true" signature="152:341" ph="{...}" />
+            <marker date="1531173254386" expanded="true" signature="186:212" ph="{...}" />
+            <marker date="1531173254386" expanded="true" signature="277:338" ph="{...}" />
+            <marker date="1531173254386" expanded="true" signature="304:332" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -693,80 +773,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/app.config.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Program.cs">
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/wwwroot/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-          <folding>
-            <marker date="1531128562262" expanded="true" signature="6:63" ph="..." />
-            <marker date="1531128562262" expanded="true" signature="86:332" ph="{...}" />
-            <marker date="1531128562262" expanded="true" signature="110:330" ph="{...}" />
-            <marker date="1531128562262" expanded="true" signature="154:191" ph="{...}" />
-          </folding>
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-          <folding>
-            <marker date="1531138485466" expanded="true" signature="6:233" ph="..." />
-            <marker date="1531138485466" expanded="true" signature="256:1193" ph="{...}" />
-            <marker date="1531138485466" expanded="true" signature="280:1191" ph="{...}" />
-            <marker date="1531138485466" expanded="true" signature="344:615" ph="{...}" />
-            <marker date="1531138485466" expanded="true" signature="690:1188" ph="{...}" />
-            <marker date="1531138485466" expanded="true" signature="722:769" ph="{...}" />
-            <marker date="1531138485466" expanded="true" signature="857:910" ph="{...}" />
-            <marker date="1531138485466" expanded="true" signature="940:1178" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Data/MessageDbContext.cs">
+    <entry file="file://$PROJECT_DIR$/src/Gallery.Web/Views/Home/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding>
-            <marker date="1531138570082" expanded="true" signature="55:249" ph="{...}" />
-            <marker date="1531138570082" expanded="true" signature="100:247" ph="{...}" />
-            <marker date="1531138570082" expanded="true" signature="236:244" ph="{...}" />
+            <marker date="1531132574922" expanded="true" signature="17:188" ph="&lt;html.../&gt;" />
+            <marker date="1531132574922" expanded="true" signature="25:108" ph="&lt;head.../&gt;" />
+            <marker date="1531132574922" expanded="true" signature="110:180" ph="&lt;body.../&gt;" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/routes.config.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Hubs/Message/MessageHub.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Page.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gallery.Frontend/src/Pages/Test/Test.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

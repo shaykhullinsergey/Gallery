@@ -30,7 +30,24 @@ export class NavbarItem extends Element<TextElementProps> {
 		const className = this.classNames('navbar-item')
 
 		return (
-			<a className={className}>
+			<div className={className}>
+				{this.props.text}
+				{this.props.children}
+			</div>
+		)
+	}
+}
+
+export interface LinkProps extends TextElementProps {
+	to?: string
+}
+
+export class NavbarLinkItem extends Element<LinkProps> {
+	public render() {
+		const className = this.classNames('navbar-item')
+
+		return (
+			<a className={className} href={this.props.to}>
 				{this.props.text}
 				{this.props.children}
 			</a>
@@ -38,16 +55,12 @@ export class NavbarItem extends Element<TextElementProps> {
 	}
 }
 
-export interface NavbarLinkProps extends TextElementProps {
-	href?: string
-}
-
-export class NavbarLink extends Element<NavbarLinkProps> {
+export class NavbarLink extends Element<LinkProps> {
 	public render() {
 		const className = this.classNames('navbar-link')
 
 		return (
-			<a className={className} href={this.props.href}>
+			<a className={className} href={this.props.to}>
 				{this.props.text}
 				{this.props.children}
 			</a>
@@ -57,7 +70,7 @@ export class NavbarLink extends Element<NavbarLinkProps> {
 
 export class NavbarBurger extends Element<ElementProps> {
 	public render() {
-		const className = this.classNames('navbar-burger')
+		const className = this.classNames('navbar-burger', 'burger')
 
 		return (
 			<a className={className}>

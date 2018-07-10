@@ -11,7 +11,4 @@
   <ItemGroup>
     <None Remove="node_modules\**" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="src\Controls" />
-  </ItemGroup>
 </Project>

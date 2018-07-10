@@ -216,6 +216,10 @@
                 <e p="Radio.tsx" t="Include" />
                 <e p="index.ts" t="Include" />
               </e>
+              <e p="Search" t="Include">
+                <e p="Search.tsx" t="Include" />
+                <e p="index.ts" t="Include" />
+              </e>
               <e p="Section" t="Include">
                 <e p="Section.tsx" t="Include" />
                 <e p="index.ts" t="Include" />
@@ -281,6 +285,7 @@
               <e p="Hub.ts" t="Include" />
               <e p="Message" t="Include">
                 <e p="MessageHub.ts" t="Include" />
+                <e p="MessageHubActions.ts" t="Include" />
                 <e p="index.ts" t="Include" />
               </e>
               <e p="index.ts" t="Include" />
@@ -289,19 +294,11 @@
               <e p="Message.ts" t="Include" />
             </e>
             <e p="Pages" t="Include">
-              <e p="About" t="Include">
-                <e p="AboutPage.tsx" t="Include" />
-                <e p="index.ts" t="Include" />
-              </e>
               <e p="Home" t="Include">
                 <e p="HomePage.tsx" t="Include" />
                 <e p="index.ts" t="Include" />
               </e>
               <e p="Page.tsx" t="Include" />
-              <e p="Test" t="Include">
-                <e p="Test.tsx" t="Include" />
-                <e p="index.ts" t="Include" />
-              </e>
               <e p="index.ts" t="Include" />
             </e>
             <e p="app.config.tsx" t="Include" />
@@ -314,7 +311,6 @@
         <e p="Gallery.Web" t="IncludeRecursive">
           <e p="Controllers" t="Include">
             <e p="HomeController.cs" t="Include" />
-            <e p="MessageController.cs" t="Include" />
           </e>
           <e p="Gallery.Web.csproj" t="IncludeRecursive" />
           <e p="Hubs" t="Include">

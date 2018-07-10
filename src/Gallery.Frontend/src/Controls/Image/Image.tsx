@@ -1,8 +1,8 @@
 import * as React from "react"
-import {Element, ElementProps} from "../Element"
+import {Element, ElementProps} from 'controls'
 
 export enum ImageSize {
-	x64 = 'is-64x64'
+	x64 = 'is-64x64',
 }
 
 export interface ImageProps extends ElementProps{
@@ -15,9 +15,7 @@ export class Image extends Element<ImageProps> {
 		const className = this.classNames('image', this.props.imageSize)
 		
 		return (
-			<p className={className}>
-				<img src={this.props.src} />
-			</p>
+			<img className={className} src={this.props.src} />
 		)
 	}
 }

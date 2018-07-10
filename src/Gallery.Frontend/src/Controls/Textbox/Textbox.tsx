@@ -24,7 +24,7 @@ export class Textbox extends Element<TextboxProps, TextboxState> {
 	constructor(props: TextboxProps) {
 		super(props)
 		
-		this.state = {value: null}
+		this.state = {value: ''}
 	}
 	
 	private onChange(value: string) {

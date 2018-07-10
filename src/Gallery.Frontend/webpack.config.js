@@ -4,7 +4,7 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 const config = {
 	wwwroot: '../Gallery.Web/wwwroot',
 	src: 'src',
-	mode: 'production'
+	mode: 'development'
 }
 
 module.exports = {
@@ -33,6 +33,7 @@ module.exports = {
 			pages: path.resolve(__dirname, 'src', 'Pages'),
 			hubs: path.resolve(__dirname, 'src', 'Hubs'),
 			models: path.resolve(__dirname, 'src', 'Models'),
+			reducers: path.resolve(__dirname, 'src', 'Reducers'),
 		}
 	},
 	plugins: [

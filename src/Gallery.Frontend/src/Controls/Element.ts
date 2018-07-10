@@ -28,6 +28,7 @@ export enum Position {
 	Center = 'is-centered',
 	Right = 'is-right',
 	Up = 'is-up',
+	TextCentered = 'has-text-centered'
 }
 
 export enum Type {

@@ -16,30 +16,16 @@
 		],
 		"baseUrl": "./src",
 		"paths": {
-			"controls": [
-				"Controls"
-			],
-			"controls/*": [
-				"Controls/*"
-			],
-			"pages/*": [
-				"Pages/*"
-			],
-			"pages": [
-				"Pages"
-			],
-			"hubs/*": [
-				"Hubs/*"
-			],
-			"hubs": [
-				"Hubs"
-			],
-			"models/*": [
-				"Models/*"
-			],
-			"models": [
-				"Models"
-			]
+			"controls": ["Controls"],
+			"controls/*": ["Controls/*"],
+			"pages/*": ["Pages/*"],
+			"pages": ["Pages"],
+			"hubs/*": ["Hubs/*"],
+			"hubs": ["Hubs"],
+			"models/*": ["Models/*"],
+			"models": ["Models"],
+			"reducers/*": ["Reducers/*"],
+			"reducers": ["Reducers"]
 		}
 	}
 }

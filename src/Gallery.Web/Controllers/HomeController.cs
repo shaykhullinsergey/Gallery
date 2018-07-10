@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Gallery.Web.Controllers
 {
@@ -7,6 +8,16 @@ namespace Gallery.Web.Controllers
 		public IActionResult Index()
 		{
 			return View();
+		}
+
+		[Authorize]
+		[HttpGet("test")]
+		public IActionResult Test()
+		{
+			return Json(new
+			{
+				Works = "WORKS!!"
+			});
 		}
 	}
 }
