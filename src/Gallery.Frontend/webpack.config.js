@@ -2,13 +2,10 @@ const path = require('path')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 
 const config = {
-	wwwroot: '../Gallery.Web/wwwroot',
-	src: 'src',
-	mode: 'development'
+	wwwroot: '../Gallery.Web/wwwroot'
 }
 
 module.exports = {
-	mode: config.mode,
 	entry: './src/app.config.tsx',
 	output: {
 		filename: '[name].js',
